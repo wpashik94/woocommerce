@@ -185,6 +185,9 @@
 .sub-heading-text {
   margin-bottom: 15px !important;
 }
+.woocommerce-product-gallery__trigger {
+  display: none !important;
+}
 /*----------checkout page------------*/
 #order_review tr.cart-subtotal th, 
 #order_review tr.order-total th {
