@@ -253,3 +253,30 @@
     .woocommerce ul.products .product-inner {
         height: 100%;
     }
+
+
+
+
+
+
+
+
+/*--responsive--------*/
+@media screen and (max-width: 767px){
+	.woocommerce-tabs .tabs {
+	  display: flex !important;
+	  flex-flow: inherit;
+	}
+	.owp-product-nav-wrap.clr {
+	  display: none;
+	}
+	.woocommerce div.product .woocommerce-tabs {
+	  padding-top: 10px;
+	}
+}
+
+
+
+
+
+
