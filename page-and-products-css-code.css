@@ -192,6 +192,28 @@
 .woocommerce-product-gallery__trigger {
   display: none !important;
 }
+.woocommerce-thankyou-order-received {
+  font-size: 18px;
+  font-weight: 500;
+}
+.woocommerce table.shop_table thead, 
+.woocommerce-checkout-review-order-table tfoot th {
+  background-color: #d0ad68;
+}
+.woocommerce table.shop_table thead th .nobr,
+.woocommerce table.shop_table thead th {
+  color: #fff !important;
+}
+.woocommerce-order-details__title,
+.woocommerce-customer-details h2 {
+  font-size: 28px;
+  font-weight: 600;
+}
+#tab-title-reviews,
+#tab-title-description{
+  border: 2px solid #FE4967;
+  margin-left: 15px;
+}
 /*----------checkout page------------*/
 #order_review tr.cart-subtotal th, 
 #order_review tr.order-total th {
